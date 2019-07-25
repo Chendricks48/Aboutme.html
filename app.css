@@ -1,0 +1,25 @@
+h1 {
+	color: rgba(0, 200, 100, .2);
+	/* border-color: purple;
+	border-width: 5px;
+	border-style: solid; */
+
+	border: 8px dashed rgb(255, 100, 80);
+}
+
+/* to all borders in CSS
+	width
+	color
+	style */
+
+
+h4 {
+	background: rgb(255, 100, 80);
+}
+
+body {
+	background: pink;
+	/* background: url(https://images-na.ssl-images-amazon.com/images/I/8162wgFO8rL._SX425_.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; */
+}
